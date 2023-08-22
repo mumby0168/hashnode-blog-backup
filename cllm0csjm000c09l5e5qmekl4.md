@@ -1,5 +1,7 @@
 ---
 title: "NSubstitute from Moq"
+seoTitle: "Moq NSubstitute Alternative"
+seoDescription: "Transition from Moq to NSubstitute: concise guide with examples for mocking, returning values, and verifying method calls in both libraries"
 datePublished: Tue Aug 22 2023 07:52:07 GMT+0000 (Coordinated Universal Time)
 cuid: cllm0csjm000c09l5e5qmekl4
 slug: nsubstitute-from-moq
@@ -7,7 +9,7 @@ tags: unit-testing, unit-tests, mocking, moq, nsubstitute
 
 ---
 
-A quick and simple guide to getting started with [NSubstitute](https://nsubstitute.github.io/) coming from using Moq.
+A concise and straightforward guide to transitioning from Moq to NSubstitute.
 
 ## Foreword
 
