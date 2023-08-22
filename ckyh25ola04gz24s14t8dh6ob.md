@@ -1,4 +1,15 @@
-## Paging in Azure Cosmos DB
+---
+title: "Paging in Azure Cosmos DB"
+seoTitle: "Paging in Azure Cosmos DB"
+seoDescription: "The trials and tribulations of paging and some of the options for implementing paging in Cosmos DB."
+datePublished: Sun Jan 16 2022 09:30:30 GMT+0000 (Coordinated Universal Time)
+cuid: ckyh25ola04gz24s14t8dh6ob
+slug: paging-in-azure-cosmos-db
+cover: https://cdn.hashnode.com/res/hashnode/image/unsplash/E0AHdsENmDg/upload/v1642186196840/c3Vp1WEvd.jpeg
+ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1642325389873/c_TIF2M2u.png
+tags: github, azure, nodejs, dotnet, dotnetcore
+
+---
 
 # Foreword
 
